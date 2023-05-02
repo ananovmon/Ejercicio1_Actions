@@ -1,3 +1,3 @@
-# pruebas
+# Ejercicio 1 - Aplicación nodeJS
 
--esto es un cambio
+Comprobar que se crea la imágen y se sube a Docker Hub
